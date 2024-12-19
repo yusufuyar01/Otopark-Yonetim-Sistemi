@@ -32,5 +32,5 @@ EKRANLAR
 - Kullanıcı, ödeme yöntemi ve süresini seçerek ödemesini tamamlar.
 
 GELİŞTİRİCİLER VE GİTHUB BAĞLANTILARI:
-- Enes CANSABUNCU ---> https://github.com/EnesCansabuncu
+- Muhammed Enes CANSABUNCU ---> https://github.com/EnesCansabuncu
 - Yusuf UYAR ---> https://github.com/yusufuyar01
